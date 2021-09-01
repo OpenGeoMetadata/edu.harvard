@@ -1,0 +1,38 @@
+{
+  "dc_identifier_s": "HARVARD.G4411_J3_s50_M4_INDEX_GR",
+  "dc_title_s": "Estados Unidos Mexicanos : carta edafologica, Map Series Index",
+  "dc_description_s": "This polygon is an index to 1:50,000 scale maps of Mexico, titled Estados Unidos Mexicanos : carta edafologica. This map series was originally produced by the Mexico Comisión de Estudios del Territorio Nacional, 1971-. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G4411_J3_s50_M4_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g4411-j3-s50-m4-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2020-03-04T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "Spanish",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Mexico. Comisión de Estudios del Territorio Nacional",
+    "Mexico. Direccion de Estudios Economicos"
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military",
+    "Soils"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "1971-"
+  ],
+  "dct_spatial_sm": [ "Mexico"
+  ],
+  "solr_geom": "ENVELOPE(-118.66666666713297, -86.66666666723285, 32.75000000029985, 14.499999999900126)",
+  "solr_year_i": 1971,
+  "geoblacklight_version": "1.0"
+}

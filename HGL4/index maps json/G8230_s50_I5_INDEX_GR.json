@@ -1,0 +1,36 @@
+{
+  "dc_identifier_s": "HARVARD.G8230_s50_I5_INDEX_GR",
+  "dc_title_s": "Carte du Maroc au 50,000e (type 1922), Map Series Index",
+  "dc_description_s": "This polygon is an index to 1:50,000 scale maps of Morocco, titled Carte du Maroc au 50,000e (type 1922). This map series was originally produced by the Institut géographique national (France), 192-?-. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G8230_s50_I5_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g8230-s50-i5-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2020-04-24T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "French",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Institut géographique national (France)"
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "192-?-"
+  ],
+  "dct_spatial_sm": [ "Morocco"
+  ],
+  "solr_geom": "ENVELOPE(-12.4174524187369, -0.9578541670921936, 36.00559689607417, 28.002948147409484)",
+  "solr_year_i": 1920,
+  "geoblacklight_version": "1.0"
+}

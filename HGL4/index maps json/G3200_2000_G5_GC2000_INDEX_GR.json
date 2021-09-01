@@ -1,0 +1,38 @@
+{
+  "dc_identifier_s": "HARVARD.G3200_2000_G5_GC2000_INDEX_GR",
+  "dc_title_s": "Landsat 7 ETM 15m 7-4-2 GeoCover 2000 (1999-2003), Map Series Index",
+  "dc_description_s": "This polygon is an index to maps of the world, titled Landsat 7 ETM 15m 7-4-2 GeoCover 2000 (1999-2003). This map series was originally produced by the LAND INFO Worldwide Mapping, LLC, [200u?]. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G3200_2000_G5_GC2000_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g3200-2000-g5-gc2000-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2020-03-03T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Land Info (Firm)"
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military",
+    "Remote-sensing images",
+    "Hard disks (Computer science)"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_spatial_sm": [ "World"
+  ],
+  "solr_geom": "ENVELOPE(-179.9999, 179.9999, 82.35604, -59.9595411111111)",
+  "solr_year_i": 2000,
+  "geoblacklight_version": "1.0"
+}

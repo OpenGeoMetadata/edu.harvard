@@ -1,0 +1,37 @@
+{
+  "dc_identifier_s": "HARVARD.G7630_s100_A3_INDEX_GR",
+  "dc_title_s": " Afghānistān, Map Series Index",
+  "dc_description_s": "This polygon is an index to 1:100,000 scale maps of Afghanistan, titled Afghānistān. This map series was originally produced by  Da Afghānistān Kārtūgrāfī Muʼassasah, 1960-. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G7630_s100_A3_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g7630-s100-a3-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2020-03-04T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Da Afghānistān Kārtūgrāfī Muʼassasah",
+    "Afghanistan. Vizārat-i Maʻādin va Ṣanāʼiʻ"
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "1960-"
+  ],
+  "dct_spatial_sm": [ "Afghanistan"
+  ],
+  "solr_geom": "ENVELOPE(60.41585676012113, 75.1028930219154, 38.714345314244326, 29.326000810711946)",
+  "solr_year_i": 1960,
+  "geoblacklight_version": "1.0"
+}

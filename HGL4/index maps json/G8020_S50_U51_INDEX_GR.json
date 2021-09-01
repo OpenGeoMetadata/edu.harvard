@@ -1,0 +1,38 @@
+{
+  "dc_identifier_s": "HARVARD.G8020_S50_U51_INDEX_GR",
+  "dc_title_s": "Vietnam 1:50,000, Map Series Index, 1957-2003",
+  "dc_description_s": "This polygon is an index to 1:50,000 scale maps of Vietnam, titled [Vietnam 50k]. The maps included in this index are part of selection of heet map series entitled: Vietnam 1:50,000 (Series L7014), published by the United States Army Map Service and, later, by the United States Defense Mapping Agency between 1957 and 2003, and later published as scanned and georeferenced images by Land Info. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G8020_S50_U51_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g8020-s50-u51-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2019-12-10T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+	"Land Info (Firm)",
+    "United States. Army Map Service."
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military"
+  ],
+  "dct_issued_s": "2019",
+  "dct_temporal_sm": [
+    "1957-2003"
+  ],
+  "dct_spatial_sm": [
+    "Vietnam"
+  ],
+  "solr_geom": "ENVELOPE(101.996421, 109.495626, 23.504418, 8.410792)",
+  "solr_year_i": 1957,
+  "geoblacklight_version": "1.0"
+}

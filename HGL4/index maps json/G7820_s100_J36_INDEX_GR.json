@@ -1,0 +1,45 @@
+{
+  "dc_identifier_s": "HARVARD.G7820_s100_J36_INDEX_GR",
+  "dc_title_s": "[Tō \"So\", Karafuto, Kita Karafuto, Kyokutō, Shiberia, Mōko, Minami Shina, Kita Shina oyobi Chōsen jūmanbun no ichi zu], Map Series Index",
+  "dc_description_s": "This polygon is an index to 1:100,000 scale maps of China, titled: [Tō \"So\", Karafuto, Kita Karafuto, Kyokutō, Shiberia, Mōko, Minami Shina, Kita Shina oyobi Chōsen jūmanbun no ichi zu], [東「ソ」、樺太、北樺太、極東、西伯利、蒙古、南支那、北支那及朝鮮十万分一圖]. This map series was originally produced by The Imperial Japanese Army General Staff Office (参謀本部 Sanbō Honbu), 1911-1947. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G7820_s100_J36_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g7820-s100-j36-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2019-12-09T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "Japanese",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Japan. 陸軍. 参謀本部",
+	"Japan. Rikugun. Sanbō Honbu."
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military"
+  ],
+  "dct_issued_s": "2019",
+  "dct_temporal_sm": [
+    "1911-1947"
+  ],
+  "dct_spatial_sm": [ 
+    "China",
+    "Manchuria (China)",
+	"Mongolia",
+	"East Asia",
+	"Amurskai︠a︡ oblastʹ (Russia)",
+	"Sakhalin (Sakhalinskai͡a oblastʹ, Russia)",
+	"Russian Far East (Russia)",
+	"Korea"	
+  ],
+  "solr_geom": "ENVELOPE(85.0, 145.0, 59.956, 16.666)",
+  "solr_year_i": 1911,
+  "geoblacklight_version": "1.0"
+}

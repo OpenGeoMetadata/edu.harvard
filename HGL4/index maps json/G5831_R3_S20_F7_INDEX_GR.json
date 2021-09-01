@@ -1,0 +1,36 @@
+{
+  "dc_identifier_s": "HARVARD.G5831_R3_S20_F7_INDEX_GR",
+  "dc_title_s": "Plans directeurs de guerre / Groupe des canevas de tir, Map Series Index",
+  "dc_description_s": "This polygon is an index to 1:20,000 scale maps of France. This map series was originally produced by the Service géographique de l'Armée, 1918-1919. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G5831_R3_S20_F7_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g5831-r3-s20-f7-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2019-12-10T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "French",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Service géographique de l'Arméee."
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military"
+  ],
+  "dct_issued_s": "2019",
+  "dct_temporal_sm": [
+    "1918-1919"
+  ],
+  "dct_spatial_sm": [ "France"
+  ],
+  "solr_geom": "ENVELOPE(1.377093, 8.208555, 51.485651, 46.969398)",
+  "solr_year_i": 1918,
+  "geoblacklight_version": "1.0"
+}

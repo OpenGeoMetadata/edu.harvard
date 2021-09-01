@@ -1,0 +1,38 @@
+{
+  "dc_identifier_s": "HARVARD.G7434_I8_s25_G7_INDEX_GR",
+  "dc_title_s": "1:25,000 Istanbul, Map Series Index, 1943-",
+  "dc_description_s": "This polygon is an index to 1:25,000 scale maps of Istanbul, titled '1:25,000 Istanbul.' This map series was originally produced by Great Britain, Army, Middle East Drawing and Reproduction, 1943-. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G7434_I8_s25_G7_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g7434-i8-s25-g7-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2019-12-13T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Great Britain. Army. Middle East Drawing and Reproduction",
+    "Great Britain. Army. Royal Engineers. Palestinian Field Survey Coy., 524"
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military"
+  ],
+  "dct_issued_s": "2019",
+  "dct_temporal_sm": [
+    "1943-"
+  ],
+  "dct_spatial_sm": [
+    "Istanbul"
+  ],
+  "solr_geom": "ENVELOPE(27.917294, 29.229094, 41.582092, 40.770017)",
+  "solr_year_i": 1943,
+  "geoblacklight_version": "1.0"
+}

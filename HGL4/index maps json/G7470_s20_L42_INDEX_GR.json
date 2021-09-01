@@ -1,0 +1,37 @@
+{
+  "dc_identifier_s": "HARVARD.G7470_s20_L42_INDEX_GR",
+  "dc_title_s": "Carte du Liban 1:20,000, Map Series Index",
+  "dc_description_s": "This polygon is an index to 1:20,000 scale maps of Lebanon, titled Carte du Liban 1:20,000. This map series was originally produced by the Direction des affaires géographiques, 1966-. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G7470_s20_L42_INDEX_GR.geojson\"}",
+  "layer_slug_s": "harvard-g7470-s20-l42-index-gr",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2020-04-27T00:00:00Z",
+  "dc_format_s": "GeoJSON",
+  "dc_language_s": "French",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "Harvard Map Collection",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "Lebanon. Direction des affaires géographiques",
+    "Lebanon. Jaysh"
+  ],
+  "dc_subject_sm": [
+    "Military maps",
+    "Topographic maps",
+    "Index maps",
+    "Grids (Cartography)",
+    "Boundaries",
+    "Military"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "1966-"
+  ],
+  "dct_spatial_sm": [ "Lebanon"
+  ],
+  "solr_geom": "ENVELOPE(35.09033120096967, 36.629379347091515, 34.754693978891794, 32.998685393515245)",
+  "solr_year_i": 1966,
+  "geoblacklight_version": "1.0"
+}
