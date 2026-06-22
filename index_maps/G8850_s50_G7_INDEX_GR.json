@@ -1,1 +1,58 @@
-{"gbl_mdVersion_s":"Aardvark","id":"harvard-g8850-s50-g7-index-gr","dct_title_s":"Ghana : 1:50,000, Map Series Index, 1951-","gbl_wxsIdentifier_s":"https://hgl.harvard.edu/catalog/harvard-g8850-s50-g7-index-gr","dct_accessRights_s":"Public","dcat_bbox":"ENVELOPE(-3.25, 1.25, 11.25, 4.75)","dct_creator_sm":["Harvard Map Collection","Great Britain. Directorate of Overseas Surveys","Survey of Ghana"],"dct_issued_s":"2022","dct_description_sm":["This polygon is an index to 1:50,000 scale maps of Ghana, titled 'Ghana 1:50,000.' This map series was compiled and drawn by Directorate of Overseas Surveys from Control supplied by the Survey of Ghana and Directorate of Overseas Surveys, 1951?-. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of a project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available."],"dct_format_s":"GeoJSON","locn_geometry":"ENVELOPE(-3.25, 1.25, 11.25, 4.75)","gbl_indexYear_im":[1851],"gbl_mdModified_dt":"2022-11-02T00:00:00Z","schema_provider_s":"Harvard","dct_publisher_sm":["Harvard Map Collection"],"dct_references_s":"{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G8850_s50_G7_INDEX_GR.geojson\"}","dct_spatial_sm":["Ghana"],"dct_subject_sm":["Topographic maps","Index maps","Grids (Cartography)","Boundaries"],"dct_temporal_sm":["1851?-"],"gbl_resourceType_sm":["Polygon data","Topographic maps","Index maps"],"gbl_resourceClass_sm":["Collections","Maps"],"gbl_georeferenced_b":false,"harvard_collectionID_sm":["990143857160203941"],"dct_identifier_sm":["https://hgl.harvard.edu/catalog/harvard-g8850-s50-g7-index-gr","G8850_s50_G7_INDEX_GR","https://id.lib.harvard.edu/alma/990143857160203941/catalog"]}
+{
+    "gbl_mdVersion_s": "Aardvark",
+    "id": "harvard-g8850-s50-g7-index-gr",
+    "dct_title_s": "Ghana : 1:50,000, Map Series Index, 1951-",
+    "gbl_wxsIdentifier_s": "https://hgl.harvard.edu/catalog/harvard-g8850-s50-g7-index-gr",
+    "dct_accessRights_s": "Public",
+    "dcat_bbox": "ENVELOPE(-3.25, 1.25, 11.25, 4.75)",
+    "dct_creator_sm": [
+        "Harvard Map Collection",
+        "Great Britain. Directorate of Overseas Surveys",
+        "Survey of Ghana"
+    ],
+    "dct_issued_s": "2022",
+    "dct_description_sm": [
+        "This polygon is an index to 1:50,000 scale maps of Ghana, titled 'Ghana 1:50,000.' This map series was compiled and drawn by Directorate of Overseas Surveys from Control supplied by the Survey of Ghana and Directorate of Overseas Surveys, 1951?-. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of a project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available."
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-3.25, 1.25, 11.25, 4.75)",
+    "gbl_indexYear_im": [
+        1951
+    ],
+    "gbl_mdModified_dt": "2022-11-02T00:00:00Z",
+    "schema_provider_s": "Harvard",
+    "dct_publisher_sm": [
+        "Harvard Map Collection"
+    ],
+    "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G8850_s50_G7_INDEX_GR.geojson\"}",
+    "dct_spatial_sm": [
+        "Ghana"
+    ],
+    "dct_subject_sm": [
+        "Topographic maps",
+        "Index maps",
+        "Grids (Cartography)",
+        "Boundaries"
+    ],
+    "dct_temporal_sm": [
+        "1951?-"
+    ],
+    "gbl_resourceType_sm": [
+        "Polygon data",
+        "Topographic maps",
+        "Index maps"
+    ],
+    "gbl_resourceClass_sm": [
+        "Collections",
+        "Maps"
+    ],
+    "gbl_georeferenced_b": false,
+    "harvard_collectionID_sm": [
+        "990143857160203941"
+    ],
+    "dct_identifier_sm": [
+        "https://hgl.harvard.edu/catalog/harvard-g8850-s50-g7-index-gr",
+        "G8850_s50_G7_INDEX_GR",
+        "https://id.lib.harvard.edu/alma/990143857160203941/catalog"
+    ]
+}
