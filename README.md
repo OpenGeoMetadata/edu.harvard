@@ -1,5 +1,22 @@
-Harvard's OGM Metadata
+# Harvard OGM Metadata
 
-Harvard is using Aardvark in production. The 2 metadata folders are out json individual layers (shape and geotiff) and then index_maps for those who want those.
+Harvard Geospatial Library: https://hgl.harvard.edu/
 
-HGL4 branch: Legacy GBL 1.0 metadata. This is no longer being maintained and may not continue to work
+## File Structure
+
+3 folders:
+- ogm-aardvark: our json for GBL (broken into folders for easier viewing)
+- fgdc: our raw fgdc
+- index-maps-aardvark: our GBL index maps, separated in case folks don't want those
+
+## Our Metadata
+
+Information about our metadata:
+
+* GeoBlacklight metadata version: Aardvark
+* Custom fields:harvard_collectionID_sm and harvard_localCollectionLabel_sm, just some information for links to catalog and created collections for easier searching
+* FGDC also available
+
+## How to Contribute
+
+Contact information: If you find any issues, feel free to make an issue on this repository or contact us at hgladmin@fas.harvard.edu
